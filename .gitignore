@@ -33,3 +33,5 @@ packages/*/stats.json
 packages/*/report.json
 packages/*/analyzed.html
 packages/*/treemap.html
+.devcontainer
+.github/dependabot.yml
